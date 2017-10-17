@@ -1,4 +1,4 @@
-# Welcome!
+# ES6 Tutorials : SPREAD Operator with Fun
 
 This Node.js template lets you get started quickly with a simple one-page playground.
 
