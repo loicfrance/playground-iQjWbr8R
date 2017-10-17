@@ -50,11 +50,50 @@ const employee = { ...obj1, ...obj2 }
 console.log(employee);
 *//{ "age": 24, "hobby": "Skydiving", "name": "Luke", "work": "Developer" }*
 
-___
+
+# Solve, Learn and have Fun :)
+
 
 ```javascript runnable
-console.log('Hello World!');
+var prices = [12, 20, 18];
+var newPriceArray = [...prices];
+console.log(newPriceArray);
 ```
 
-# Advanced usage
+```javascript runnable
+var alphabets = ["A", ..."BCD", "E"];
+console.log(alphabets);
+```
 
+```javascript runnable
+var prices = [12, 20, 18];
+var maxPrice = Math.max(...prices);
+console.log(maxPrice);
+```
+
+```javascript runnable
+var max = Math.max(..."43210");
+console.log(max);
+```
+
+```javascript runnable
+const fruits = ["apple", "orange"];
+const vegetables = ["carrot", "potato"];
+
+const result = ['bread', ...vegetables, 'chicken', ...fruits];
+```
+
+```javascript runnable
+const country = "USA";
+console.log([...country]);
+```
+
+```javascript runnable
+var newArray = Array(...[,,]);
+console.log(newArray);
+```
+
+```javascript runnable
+var newArray = [...[,,]];
+console.log(newArray);
+```
