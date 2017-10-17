@@ -61,7 +61,6 @@ var prices = [12, 20, 18];
 var newPriceArray = [...prices];
 console.log(newPriceArray);
 ```
-
 ```javascript runnable
 var alphabets = ["A", ..."BCD", "E"];
 console.log(alphabets);
