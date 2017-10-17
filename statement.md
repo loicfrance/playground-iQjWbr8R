@@ -50,6 +50,8 @@ const employee = { ...obj1, ...obj2 }
 console.log(employee);
 *//{ "age": 24, "hobby": "Skydiving", "name": "Luke", "work": "Developer" }*
 
+## For more questions on ES6 please visit - https://rapides6.herokuapp.com
+
 
 # Solve, Learn and have Fun :)
 
