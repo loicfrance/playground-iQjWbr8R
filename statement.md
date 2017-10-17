@@ -8,6 +8,7 @@ It expands the array into individual elements. So, it can be used to expand the 
 let fruits = ['Apple','Orange','Banana'];
 
 let newFruitArray = [...fruits];
+
 console.log(copiedList); *// ['Apple','Orange','Banana']*
 
 **2. Concatenating arrays**
