@@ -1,6 +1,7 @@
 # ES6 Tutorials : SPREAD Operator with Fun
 
-This Node.js template lets you get started quickly with a simple one-page playground.
+JavaScript ES6 (ECMAScript 6) introduced the spread operator. The syntax is *three dots(...)* followed by the array (or iterable*).
+It expands the array into individual elements. So, it can be used to expand the array in a places where zero or more elements are expected.
 
 ```javascript runnable
 console.log('Hello World!');
@@ -8,4 +9,3 @@ console.log('Hello World!');
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Node.js template](https://tech.io/select-repo/442)
