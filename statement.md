@@ -50,6 +50,8 @@ const employee = { ...obj1, ...obj2 }
 console.log(employee);
 *//{ "age": 24, "hobby": "Skydiving", "name": "Luke", "work": "Developer" }*
 
+___
+
 ```javascript runnable
 console.log('Hello World!');
 ```
