@@ -48,7 +48,7 @@ var obj2 = { age: 25, country: 'USA'}
 const employee = { ...obj1, ...obj2 }
 
 console.log(employee);
-*//{ "age": 24, "hobby": "Skydiving", "name": "Luke", "work": "Developer" }*
+*//{ "id": 101, "name": "jhon Doe", "age": 25, "country": "USA" }*
 
 ## For more questions on ES6 please visit - https://rapides6.herokuapp.com
 
