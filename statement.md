@@ -99,3 +99,5 @@ console.log(newArray);
 var newArray = [...[,,]];
 console.log(newArray);
 ```
+
+Learn about ES6 - Default Parameters here -https://tech.io/playgrounds/7337/es6-tutorials---your-guide-for-quick-checks
